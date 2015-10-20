@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "nunjucks": "^2.1.0",
-        "juice": "1.0.0",
+        "juice": "1.5.1",
         "cheerio": "0.18.0",
         "optimist": "~0.6.1",
         "html-to-text": "~0.1.0",
