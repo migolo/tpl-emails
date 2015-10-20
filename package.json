@@ -16,7 +16,7 @@
         "mocha": "2.2.1"
     },
     "dependencies": {
-        "nunjucks": "1.1.0",
+        "nunjucks": "^2.1.0",
         "juice": "1.0.0",
         "cheerio": "0.18.0",
         "optimist": "~0.6.1",
